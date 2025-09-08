@@ -1,0 +1,18 @@
+eeee(5)
+
+oooo(4)
+eeee(3)
+oooo(2)
+eeee(1)
+oooo(0)
+return 0
+
+oooo(5)
+eeee(4)
+oooo(3)
+eeee(2)
+oooo(1)
+eeee(0)
+return 1;
+
+decrements by 1 and returns either 0 or 1
