@@ -1,0 +1,4 @@
+1)
+
+double product is declared outside of func body,
+and height doesn't have a type declared.
