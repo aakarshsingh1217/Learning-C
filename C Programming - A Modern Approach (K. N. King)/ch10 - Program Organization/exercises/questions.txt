@@ -1,0 +1,13 @@
+1)
+
+a - b, c and a
+b - a, d
+c - a, e, d
+d - a, f
+
+2)
+
+a - b (hides global var and uses function declared), c, d
+b - a (parameter), b, c (hides global var and uses func declared)
+c - a (block declared), d, c (func declared, hides global var), b
+d - c (func declared, hides global func), d
