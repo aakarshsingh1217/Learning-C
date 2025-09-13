@@ -1,0 +1,31 @@
+1)
+
+a - works, '\n' is a character
+b  - maybe works? since its a string and
+printf expecting string
+c - works?
+d - works?
+e - doesnt work, expecting string
+f - works
+g - wokrs, expecting character
+f - doesnt work, expecting character
+i - doesnt work, expecting string
+j - works
+k - works
+
+2)
+
+a - b and c?
+
+8)
+
+tired-or-wired?
+
+9)
+
+s1 = computers
+
+14)
+
+char s[] = "Grinch";
+
